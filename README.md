@@ -1,0 +1,1 @@
+# Structural_Methods_of_Pattern_Recognition
