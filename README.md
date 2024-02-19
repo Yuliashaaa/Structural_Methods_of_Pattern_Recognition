@@ -7,6 +7,7 @@ This repository contains implementations and resources related to structural met
 ## List of Labs (will be expanded)
 1. [Simple methods for processing full-color and grayscale images](https://github.com/Yuliashaaa/Structural_Methods_of_Pattern_Recognition/tree/main/Lab_1)
 2. [Color balancing of images](https://github.com/Yuliashaaa/Structural_Methods_of_Pattern_Recognition/tree/main/Lab_2)
+3. [Linear Image Filtering. Object Edge Detection](https://github.com/Yuliashaaa/Structural_Methods_of_Pattern_Recognition/tree/main/Lab_3)
 
 ## Table of Contents
 
