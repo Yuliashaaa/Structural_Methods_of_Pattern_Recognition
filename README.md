@@ -10,6 +10,7 @@ This repository contains implementations and resources related to structural met
 3. [Linear Image Filtering. Object Edge Detection](https://github.com/Yuliashaaa/Structural_Methods_of_Pattern_Recognition/tree/main/Lab_3)
 4. [Feature detection in the image. Detection of borders/vertices of regions](https://github.com/Yuliashaaa/Structural_Methods_of_Pattern_Recognition/tree/main/Lab_4)
 5. [Segmentation of images. Compression/encoding of images](https://github.com/Yuliashaaa/Structural_Methods_of_Pattern_Recognition/tree/main/Lab_5)
+6. [Machine Learning in Image Recognition. Detection and Tracking.](https://github.com/Yuliashaaa/Structural_Methods_of_Pattern_Recognition/tree/main/Lab_6)
 
 ## Table of Contents
 
