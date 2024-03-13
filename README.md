@@ -11,7 +11,8 @@ This repository contains implementations and resources related to structural met
 4. [Feature detection in the image. Detection of borders/vertices of regions](https://github.com/Yuliashaaa/Structural_Methods_of_Pattern_Recognition/tree/main/Lab_4)
 5. [Segmentation of images. Compression/encoding of images](https://github.com/Yuliashaaa/Structural_Methods_of_Pattern_Recognition/tree/main/Lab_5)
 6. [Machine Learning in Image Recognition. Detection and Tracking](https://github.com/Yuliashaaa/Structural_Methods_of_Pattern_Recognition/tree/main/Lab_6)
-7. [Harris Corner Detector](https://github.com/Yuliashaaa/Structural_Methods_of_Pattern_Recognition/tree/main/MKR_1)
+7. [Neural networks in image recognition. Part 1](https://github.com/Yuliashaaa/Structural_Methods_of_Pattern_Recognition/tree/main/Lab_7)
+8. [Harris Corner Detector](https://github.com/Yuliashaaa/Structural_Methods_of_Pattern_Recognition/tree/main/MKR_1)
 
 ## Table of Contents
 
