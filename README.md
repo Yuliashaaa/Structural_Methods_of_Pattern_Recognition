@@ -14,6 +14,7 @@ This repository contains implementations and resources related to structural met
 7. [Neural networks in image recognition. Part 1](https://github.com/Yuliashaaa/Structural_Methods_of_Pattern_Recognition/tree/main/Lab_7)
 8. [Harris Corner Detector](https://github.com/Yuliashaaa/Structural_Methods_of_Pattern_Recognition/tree/main/MKR_1)
 9. [Neural networks in image recognition. Part 2](https://github.com/Yuliashaaa/Structural_Methods_of_Pattern_Recognition/tree/main/Lab_8)
+10. [Blending image elements. Application of the Poisson equation for image restoration and seamless insertion.](https://github.com/Yuliashaaa/Structural_Methods_of_Pattern_Recognition/tree/main/Lab_9)
 
 ## Table of Contents
 
