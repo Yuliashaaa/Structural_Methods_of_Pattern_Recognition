@@ -16,6 +16,7 @@ This repository contains implementations and resources related to structural met
 9. [Neural networks in image recognition. Part 2](https://github.com/Yuliashaaa/Structural_Methods_of_Pattern_Recognition/tree/main/Lab_8)
 10. [Blending image elements. Application of the Poisson equation for image restoration and seamless insertion](https://github.com/Yuliashaaa/Structural_Methods_of_Pattern_Recognition/tree/main/Lab_9)
 11. [Development of a classifier for user keystroke analysis with a user interface](https://github.com/Yuliashaaa/Structural_Methods_of_Pattern_Recognition/tree/main/Lab_10)
+12. [Designing a system for assessing the adequacy of textual data using machine learning techniques](https://github.com/Yuliashaaa/Structural_Methods_of_Pattern_Recognition/tree/main/Lab_11)
 
 ## Table of Contents
 
